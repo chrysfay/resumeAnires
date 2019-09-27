@@ -25,7 +25,7 @@
           `/*
 * Inspired by http://strml.net/
 * 源码地址 https://github.com/sitexa/anires
-* 大家好，我是南方。
+* 大家好，我是管欣。
 * 我来写一份简历！
 */
 
@@ -123,13 +123,13 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `chrysfay
 ====
-坐标：湖南长沙。
+坐标：湖北武汉。
 
-资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
+? 资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
 
-技能
+? 技能
 ====
 
 数据库设计
@@ -137,7 +137,7 @@ html{
   - 结构化数据库设计
   - noSQL设计
 
-后端开发
+? 后端开发
 ----
   - 用户管理
   - 单点登录
@@ -154,9 +154,9 @@ html{
 前端开发
 ----
   - Web前端开发
-  - 移动终端(Native App, Hybrid App)
+  - ? 移动终端(Native App, Hybrid App)
 
-产品设计
+? 产品设计
 ----
   - 智慧旅游项目
   - 运动健康云平台
@@ -170,7 +170,7 @@ html{
   - 集装箱管理系统
   - 滞期费管理项目
 
-技术及语言
+- 技术及语言
 ----
   - Java: SpringMVC, SpringCloud, Hibernate, iBatis, spark, sql2o, HikariCP, freemarker, okHttp, retrofit, RxJava
   - Kotlin: ktor, exposed, anko
@@ -184,7 +184,7 @@ html{
   - OS: Ubuntu, CentOS, MacOS, Windows
   - Others: Docker, git, Xmind，Axure
 
-工作经历
+- 工作经历
 ====
 
 1. 湖南融耀健康管理有限公司
@@ -193,13 +193,13 @@ html{
 4. 上海易保网络有限公司
 5. 厦门海环计算机软件有限公司
 
-教育经历
+- 教育经历
 ====
 
 1. 华东理工大学 环境工程学士
 2. 厦门大学 系统工程硕士
 
-文章
+? 文章
 ====
 
 * [故土难离（我的父亲母亲）](https://www.meipian.cn/qacqfbz?uuid=d541c15eef694065bc9d1ac9a07925a2)
@@ -211,18 +211,19 @@ html{
 链接
 ====
 
-* [GitHub](https://github.com/sitexa)
-* [技术博客](http://www.sitexa.org)
-* [南方时代](http://www.sitexa.net)
-* [神秘湘鄂西](http://www.sitexa.cn)
-* [我的简历故事(程序人生公众号文章)](https://mp.weixin.qq.com/s/5rsB956EPVm0FoFOe6xYTg)
+* [GitHub](https://github.com/sitexa)(https://github.com/chrysfay)
+* [码云](https://gitee.com/chrysfay)
+* - [技术博客](http://www.sitexa.org)
+* - [南方时代](http://www.sitexa.net)
+* - [神秘湘鄂西](http://www.sitexa.cn)
+* - [我的简历故事(程序人生公众号文章)](https://mp.weixin.qq.com/s/5rsB956EPVm0FoFOe6xYTg)
 
-勾引方式
+联系方式
 ====
 
-* 微信：xnpeng
+* 微信：chrys
 
-鸣谢
+? 鸣谢
 ----
 
 * 这段时间，我有些诚煌诚恐。我的简历被很多人关注(49842），我码的那几篇文章也有很多人点击(20095），微信好友增加了2000多人。"程序人生"公众号文章（我的简历故事）阅读量超过十万+。
